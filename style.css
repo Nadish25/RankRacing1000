@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  border: 2px solid black;
+}
+
+.customInput {
+  width:200px;
+  height:20px;
+  border: 5px solid black;
+  border-radius: 30px;
+  padding: 5px;
+  background-color: none;
+  outline:none;
+
+}
+
+
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/cursors/cur-8/cur740.ani), url(https://cur.cursors-4u.net/cursors/cur-8/cur740.png), auto !important;} /* End https://www.cursors-4u.com */
